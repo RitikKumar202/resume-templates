@@ -9,6 +9,8 @@
 
 ## Template-4: https://www.overleaf.com/latex/templates/harshibars-resume/sbcyynmtpnyd
 
+## Template-5: https://www.overleaf.com/latex/templates/faangpath-simple-template/npsfpdqnxmbc
+
 
 # Steps to create Resume 
 
